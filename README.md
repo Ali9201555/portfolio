@@ -4,7 +4,7 @@
 
 I evaluate large commercial frameworks, port them across engine versions, and extend them with custom modules where they fall short. Each project below is a writeup of real engineering work — not a republish of upstream source. Where I've forked or built on a commercial product, I credit the upstream and disclose what's mine vs. what isn't.
 
-→ **[About me](./ABOUT.md)** for the short bio · **[github.com/linahalhasnawi-boop](https://github.com/linahalhasnawi-boop)** for everything else.
+→ **[About me](./ABOUT.md)** for the short bio · **[github.com/Ali9201555](https://github.com/Ali9201555)** for everything else.
 
 ## Projects
 
@@ -34,4 +34,4 @@ Writeups are MIT-licensed. Linked upstream products are governed by their own li
 
 ## Contact
 
-[github.com/linahalhasnawi-boop](https://github.com/linahalhasnawi-boop)
+[github.com/Ali9201555](https://github.com/Ali9201555)

@@ -8,25 +8,25 @@
 
 ### Combat
 
-<video src="https://github.com/linahalhasnawi-boop/PROFO/raw/main/project-sariya/media/demo-combat-showcase.mp4" controls width="100%"></video>
+<video src="https://github.com/Ali9201555/portfolio/raw/main/project-sariya/media/demo-combat-showcase.mp4" controls width="100%"></video>
 
 > ▶ [Watch combat showcase (7 MB MP4)](./media/demo-combat-showcase.mp4) — combo system, hit reactions, lock-on targeting, animation-notify-driven attack windows.
 
 ### Water / swimming
 
-<video src="https://github.com/linahalhasnawi-boop/PROFO/raw/main/project-sariya/media/demo-swimming.mp4" controls width="100%"></video>
+<video src="https://github.com/Ali9201555/portfolio/raw/main/project-sariya/media/demo-swimming.mp4" controls width="100%"></video>
 
 > ▶ [Watch swimming clip (3 MB MP4)](./media/demo-swimming.mp4) — Water + Landmass plugin interaction, swimming state transitions on the `CharacterController` base.
 
 ### Mount system (horse)
 
-<video src="https://github.com/linahalhasnawi-boop/PROFO/raw/main/project-sariya/media/demo-mount-horse.mp4" controls width="100%"></video>
+<video src="https://github.com/Ali9201555/portfolio/raw/main/project-sariya/media/demo-mount-horse.mp4" controls width="100%"></video>
 
 > ▶ [Watch horse mount clip (3 MB MP4)](./media/demo-mount-horse.mp4) — `MountSystem` + `CombinedAnimationsSystem` working together: mounted control, dismount synced animation, rider-action passthrough.
 
 ### Vehicle system (car)
 
-<video src="https://github.com/linahalhasnawi-boop/PROFO/raw/main/project-sariya/media/demo-vehicle-car.mp4" controls width="100%"></video>
+<video src="https://github.com/Ali9201555/portfolio/raw/main/project-sariya/media/demo-vehicle-car.mp4" controls width="100%"></video>
 
 > ▶ [Watch vehicle drive clip (4 MB MP4)](./media/demo-vehicle-car.mp4) — `VehicleSystem` on top of Chaos Vehicles: enter/exit, driving control, mounted-pawn pattern reused from the creature mounts.
 
@@ -34,7 +34,7 @@ Both `MountSystem` and `VehicleSystem` are marked **out of scope for v1** in the
 
 ### Interactables
 
-<video src="https://github.com/linahalhasnawi-boop/PROFO/raw/main/project-sariya/media/demo-interactables.mp4" controls width="100%"></video>
+<video src="https://github.com/Ali9201555/portfolio/raw/main/project-sariya/media/demo-interactables.mp4" controls width="100%"></video>
 
 > ▶ [Watch interactables clip (1 MB MP4)](./media/demo-interactables.mp4) — pickup, door/container, NPC interaction. All concrete actors implement the same `IACF_Interactable` interface defined in `AscentCoreInterfaces` — the spine module discussed in the Architecture section above. Same pattern, different actor classes.
 
@@ -42,7 +42,7 @@ The interactable interface is the cleanest example of the spine-driven architect
 
 ### Status effects
 
-<video src="https://github.com/linahalhasnawi-boop/PROFO/raw/main/project-sariya/media/demo-status-effects.mp4" controls width="100%"></video>
+<video src="https://github.com/Ali9201555/portfolio/raw/main/project-sariya/media/demo-status-effects.mp4" controls width="100%"></video>
 
 > ▶ [Watch status effects clip (5 MB MP4)](./media/demo-status-effects.mp4) — `StatusEffectSystem` applying buffs, debuffs, and damage-over-time on actors via the ARS attribute pipeline.
 
@@ -251,4 +251,4 @@ This writeup is MIT-licensed. ACF is governed by the Unreal Marketplace EULA. Li
 
 ## Author
 
-Lina Hal Hasnawi · [github.com/linahalhasnawi-boop](https://github.com/linahalhasnawi-boop)
+Lina Hal Hasnawi · [github.com/Ali9201555](https://github.com/Ali9201555)
